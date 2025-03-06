@@ -23,4 +23,4 @@ Hey, I'm **Nez**, the mind behind **Verdict**, a Discord marketplace that brings
 ### 💡 Let's Build Something Epic:
 I’m always looking for **Web Developers**, **FiveM Developers**, and **Server Managers** who are passionate about selling, development, and innovation. If you’re ready to collaborate, bring fresh ideas, or just want to join an incredible team, **Verdict** is the place for you. Let's make something special together.
 
-Check out my [biolink](https://slatt.cc/ne) while you're at it.
+Check out my [biolink](https://slat.cc/ne) while you're at it.
