@@ -1,4 +1,4 @@
-## Hi there 👋
+## Runnin eht up' whats up! 👋
 
 ### Developer. Creator. Server Owner. Passionate About Building the Future of Gaming.
 
@@ -6,6 +6,7 @@ Hey, I'm **Nez**, the mind behind **Verdict**, a Discord marketplace that brings
 
 🚀 **About Me:**
 - **Founder of Verdict (discord.gg/vdct)**: A community-driven marketplace where we offer everything from FiveM server management and custom bots to development tools and automation.
+- **Owner of 2FAST:RP**: An immersive **100kOrDie FiveM server** set in **Los Santos, United States**, delivering high-energy roleplay experiences.
 - **Experienced FiveM Server Owner**: I didn’t just manage servers—I **self-taught** my way through everything from server setup to custom scripting, creating immersive experiences for players along the way.
 - **Collaborative Developer**: I work with high-tier developers to craft cutting-edge bots that make waves in the community. Whether it's creating Discord bots or pushing the limits of FiveM scripts, I’m always striving for something amazing.
 
@@ -24,3 +25,4 @@ Hey, I'm **Nez**, the mind behind **Verdict**, a Discord marketplace that brings
 I’m always looking for **Web Developers**, **FiveM Developers**, and **Server Managers** who are passionate about selling, development, and innovation. If you’re ready to collaborate, bring fresh ideas, or just want to join an incredible team, **Verdict** is the place for you. Let's make something special together.
 
 Check out my [biolink](https://slat.cc/ne) while you're at it.
+
