@@ -21,4 +21,3 @@ Hey, I'm **Nez**, the mind behind **Verdict**, a Discord marketplace that brings
 - **SZN7**: Looking for the goated friend group cord? look no further than discord.gg/kxk > Join now.
 
 Check out my [biolink](https://slat.cc/ne) while you're at it.
-https://cdn.nest.rip/uploads/a67a158c-d778-43fe-91eb-4ba177a4d524.png
