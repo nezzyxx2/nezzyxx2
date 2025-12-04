@@ -15,7 +15,7 @@
 - Fast Networks, Blueprint Studios + more
 
 ## 💸
-Discord @nezzygz  
-Links https://feds.lol/ne
+- Discord @nezzygz  
+- Links https://feds.lol/ne
 
 "Turned up so much, now i can't turn off."
